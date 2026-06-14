@@ -1,4 +1,6 @@
-## Hi there 👋
+## In the beginning
+0.000 there was the command line
+0.001 there was me
 
 <!--
 **phdotexe/phdotexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
